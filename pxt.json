@@ -5,7 +5,6 @@
         "device": "*",
         "maze-extension": "github:cubicbird/maze-extension#v0.1.7",
         "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
-        "[FelixD3]MyKnight.DLC.PoisonousSnake": "pub:19642-04730-33501-91978",
         "[FelixD3]MyKnight.DLC.NaughtyMonkey": "pub:58797-07491-69817-64997",
         "[FelixD3]MyKnight.DLC.ForestBat": "pub:46274-95626-27530-16715",
         "[FelixD3]MyKnight.DangerousSwamp": "pub:64753-45171-17121-12696",
@@ -14,7 +13,8 @@
         "[DazunD2]MyKnight.Playground": "pub:62183-14676-11166-12647",
         "[HanzeD2]MyKnight.Playground": "pub:02167-21934-33986-48742",
         "[FelixD3]MyKnight.DLC.DreadfulTeacher": "pub:78303-68967-52931-94394",
-        "[LucasD3]MyKnight.Playground": "pub:56646-21811-72161-49443"
+        "[LucasD3]MyKnight.Playground": "pub:56646-21811-72161-49443",
+        "[FelixD3]MyKnight.DLC.PoisonousSnake": "pub:52312-78636-84810-00108"
     },
     "files": [
         "main.blocks",
